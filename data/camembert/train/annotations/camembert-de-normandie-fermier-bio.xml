@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>camembert-de-normandie-fermier-bio.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/train/images/camembert-de-normandie-fermier-bio.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>371</ymin>
+			<xmax>610</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

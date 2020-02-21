@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>La-guerre-du-camembert-de-Normandie-ne-fera-plus-couler-de-lait-cru.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/La-guerre-du-camembert-de-Normandie-ne-fera-plus-couler-de-lait-cru.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>62</ymin>
+			<xmax>1483</xmax>
+			<ymax>1125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>13447227lpw-13447229-article-fromage-camembert-normandie-jpg_5025706_1250x625.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/13447227lpw-13447229-article-fromage-camembert-normandie-jpg_5025706_1250x625.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1250</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>42</ymin>
+			<xmax>959</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

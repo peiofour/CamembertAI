@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3899_camembert-au-calvados-1-800x470.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/train/images/3899_camembert-au-calvados-1-800x470.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1</ymin>
+			<xmax>753</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

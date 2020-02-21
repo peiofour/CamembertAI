@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Capture d’écran 2020-02-21 à 00.09.54.png</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/Capture d’écran 2020-02-21 à 00.09.54.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>43</ymin>
+			<xmax>649</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

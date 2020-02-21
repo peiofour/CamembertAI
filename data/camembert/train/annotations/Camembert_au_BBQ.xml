@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Camembert_au_BBQ.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/Camembert_au_BBQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1320</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>10</ymin>
+			<xmax>910</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

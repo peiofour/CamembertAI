@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>camembert1.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/camembert1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>62</ymin>
+			<xmax>433</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>camembert-roti-au-thym-et-pain-aux-figues-1.jpeg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/camembert-roti-au-thym-et-pain-aux-figues-1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>230</ymin>
+			<xmax>1269</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

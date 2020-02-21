@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Camembert-sur-planche-c-HandmadePictures-shutterstock-600x393.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/Camembert-sur-planche-c-HandmadePictures-shutterstock-600x393.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>32</ymin>
+			<xmax>364</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

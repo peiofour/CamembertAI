@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>aop-camembert-perd-ame-roquefort-Michel-Lacoste-president-comite-700x394.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/aop-camembert-perd-ame-roquefort-Michel-Lacoste-president-comite-700x394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>101</ymin>
+			<xmax>599</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

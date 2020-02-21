@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>camembert-roti-1200.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/camembert-roti-1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>183</ymin>
+			<xmax>992</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

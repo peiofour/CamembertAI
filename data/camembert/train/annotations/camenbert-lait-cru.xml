@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>camenbert-lait-cru.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/camenbert-lait-cru.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>85</ymin>
+			<xmax>778</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

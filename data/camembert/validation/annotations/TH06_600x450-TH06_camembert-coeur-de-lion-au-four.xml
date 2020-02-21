@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>TH06_600x450-TH06_camembert-coeur-de-lion-au-four.jpg</filename>
+	<path>/Users/pierrefournier/www/FromageIA/data/camembert/images/TH06_600x450-TH06_camembert-coeur-de-lion-au-four.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camembert</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>91</ymin>
+			<xmax>600</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
