@@ -4,18 +4,18 @@ import numpy as np
 import keras
 import os
 
-from imageai.Detection import ObjectDetection
+from imageai.Detection.Custom import CustomObjectDetection
 
 execution_path = os.getcwd()
 
-detector = ObjectDetection()
-
-detector.setModelTypeAsRetinaNet()
-detector.setModelPath(os.path.join(execution_path, "resnet50_coco_best_v2.0.1.h5"))
+detector = CustomObjectDetection()
+detector.setModelTypeAsYOLOv3()
+detector.setModelPath(os.path.join(execution_path, "data/camembert/models/detection_model-ex-001--loss-0045.783.h5"))
+detector.setJsonPath(os.path.join(execution_path, "data/camembert/json/detection_config.json"))
 detector.loadModel()
 
-detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path, "images/fromages.jpg"),
-                                             output_image_path=os.path.join(execution_path, "results/fromages_result.jpg"))
+detections = detector.detectObjectsFromImage(input_image=os.path.join(execution_path, "images/téléchargement.jpeg"),
+                                             output_image_path=os.path.join(execution_path, "results/camembert2_result.jpeg"))
 
 for eachObject in detections:
     print(eachObject["name"], " : ", eachObject["percentage_probability"])
